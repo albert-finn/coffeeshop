@@ -1,0 +1,17 @@
+*****************************************
+Charlene's Coffee Corner
+Customer:                     ROBERT
+*****************************************
+Freshly Squeezed Orange Juice 3.95 CHF
+Small Coffee                  2.5 CHF
+Extra Milk                    0.3 CHF
+Bacon Roll                    2.5 CHF
+*****************************************
+Subtotal:                        9.25 CHF
+*****************************************
+Discounts
+Freshly Squeezed Orange Juice -3.95 CHF
+Extra Milk                    -0.3 CHF
+*****************************************
+Total:                        5.0 CHF
+*****************************************
